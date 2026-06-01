@@ -1,0 +1,17 @@
+# 🍎 水果清单
+
+- 苹果 (Apple)
+- 香蕉 (Banana)
+- 橙子 (Orange)
+- 葡萄 (Grape)
+- 西瓜 (Watermelon)
+- 草莓 (Strawberry)
+- 蓝莓 (Blueberry)
+- 芒果 (Mango)
+- 菠萝 (Pineapple)
+- 猕猴桃 (Kiwi)
+- 樱桃 (Cherry)
+- 桃子 (Peach)
+- 梨 (Pear)
+- 柠檬 (Lemon)
+- 火龙果 (Dragon Fruit)
